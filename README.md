@@ -1,0 +1,1 @@
+Miniprofiler File => NetCore + Swagger + Miniproflier 
