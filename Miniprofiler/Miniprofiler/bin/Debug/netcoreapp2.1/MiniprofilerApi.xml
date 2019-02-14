@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MiniprofilerApi</name>
+    </assembly>
+    <members>
+        <member name="M:Miniprofiler.Controllers.ValuesController.Get">
+            <summary>
+            这里是接口注释
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\bin\Debug\netcoreapp2.1\MiniprofilerApi.deps.json
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\bin\Debug\netcoreapp2.1\MiniprofilerApi.runtimeconfig.json
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\bin\Debug\netcoreapp2.1\MiniprofilerApi.runtimeconfig.dev.json
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\bin\Debug\netcoreapp2.1\MiniprofilerApi.dll
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\bin\Debug\netcoreapp2.1\MiniprofilerApi.pdb
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\obj\Debug\netcoreapp2.1\MiniprofilerApi.csprojAssemblyReference.cache
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\obj\Debug\netcoreapp2.1\MiniprofilerApi.csproj.CoreCompileInputs.cache
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\obj\Debug\netcoreapp2.1\MiniprofilerApi.RazorAssemblyInfo.cache
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\obj\Debug\netcoreapp2.1\MiniprofilerApi.RazorAssemblyInfo.cs
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\obj\Debug\netcoreapp2.1\MiniprofilerApi.AssemblyInfoInputs.cache
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\obj\Debug\netcoreapp2.1\MiniprofilerApi.AssemblyInfo.cs
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\obj\Debug\netcoreapp2.1\MiniprofilerApi.RazorTargetAssemblyInfo.cache
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\obj\Debug\netcoreapp2.1\MiniprofilerApi.dll
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\obj\Debug\netcoreapp2.1\MiniprofilerApi.pdb
+C:\Users\64694\Desktop\Miniprofiler\Miniprofiler\Miniprofiler\bin\Debug\netcoreapp2.1\MiniprofilerApi.xml
